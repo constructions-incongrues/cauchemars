@@ -98,14 +98,15 @@ class CauchemarsCommand extends Command
 		$manifest[] = 'Quid ?';
 		$manifest[] = '======';
 		$manifest[] = '';
-		$manifest[] = 'Depuis la création du forum des Musiques Incongrues en 2006 nous constituons';
-		$manifest[] = 'une base de données regroupant tous les liens postés par nos contributeurs.';
+		$manifest[] = 'Depuis la création du forum des Musiques Incongrues (http://www.musiques-incongrues.net)';
+		$manifest[] = 'en 2006 nous constituons';
+		$manifest[] = 'une base de données (http://data.musiques-incongrues.net) regroupant tous les liens postés';
+		$manifest[] = 'par nos contributeurs.';
 		$manifest[] = '';
 		$manifest[] = 'Ce corpus regroupe plus de 45 000 liens à ce jour.';
 		$manifest[] = '';
 		$manifest[] = 'Chacune de ces compilations est composée d’une sélection aléatoire'; 
 		$manifest[] = 'de morceaux issus de cette base de données.';
-		$manifest[] = sprintf('À l’occasion du Grand Salon de la Micro-Édition, des compilations ont été générées avec le préfixe %s. ', $prefix);
 		$manifest[] = '';
 		$manifest[] = 'Playlist :';
 		$manifest[] = '==========';
