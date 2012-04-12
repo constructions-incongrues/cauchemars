@@ -4,6 +4,10 @@ Depuis la création du [forum des Musiques Incongrues](http://www.musiques-incon
 
 Ce script permet de générer des compilations constituées de morceaux sélectionnés aléatoirement au sein de cette base de données.
 
+PRÉ-REQUIS
+==========
+* mpg123
+
 INSTALLATION
 ============
 
