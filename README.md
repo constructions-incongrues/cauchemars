@@ -5,7 +5,7 @@ Ce corpus regroupe plus de 45 000 liens à ce jour.
 
 Ce script permet de générer des compilations constituées de morceaux sélectionnés aléatoirement au sein de cette base de données.
 
-Chaque compilation est constituée de fichiers .wav dont la durée cumulée est inférieure à 74 minutes. 
+Chaque compilation est constituée de fichiers .mp3 dont la durée cumulée est inférieure à 74 minutes. 
 Le script génère aussi un fichier décrivant la compilation : présentation, playlist.
 
 PRÉ-REQUIS
