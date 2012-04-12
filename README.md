@@ -1,6 +1,6 @@
 DESCRIPTION
 ===========
-Depuis la création du forum des Musiques Incongrues en 2006 nous constituons une base de données regroupant tous les liens postés par nos contributeurs. Ce corpus regroupe plus de 45 000 liens à ce jour.
+Depuis la création du [forum des Musiques Incongrues](http://www.musiques-incongrues.net) en 2006 nous constituons une [base de données](http://data.musiques-incongrues.net) regroupant tous les liens postés par nos contributeurs. Ce corpus regroupe plus de 45 000 liens à ce jour.
 
 Ce script permet de générer des compilations constituées de morceaux sélectionnés aléatoirement au sein de cette base de données.
 
