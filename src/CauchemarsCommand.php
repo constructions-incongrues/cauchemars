@@ -118,18 +118,6 @@ class CauchemarsCommand extends Command
 		$manifestTxt = implode("\n", $manifest);
 		file_put_contents($dirCompilation.'/manifest.txt', $manifestTxt);
 		$logStderr->addInfo("\n".$manifestTxt);
-
-		// Convert MP3 to WAV
-		$mp3Files = glob($dirCompilation.'/*');
-		foreach ($mp3Files as $mp3File) {
-			if (basename($mp3File) == 'manifest.txt') {
-				continue;
-			}
-			$command = sprintf('/usr/bin/mpg123 -w %s/%s.wav %s', $dirCompilation, basename($mp3File, '.mp3'), $mp3File);
-			$logStderr->addInfo(sprintf('Executing command : %s', $command));
-			passthru($command);
-			unlink($mp3File);
-		}
 		$num++;
 	}
     }
