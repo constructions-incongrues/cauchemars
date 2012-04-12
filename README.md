@@ -39,4 +39,5 @@ CREDITS
 * http://data.musiques-incongrues.net
 * https://github.com/symfony/Console
 * https://github.com/Seldaek/monolog
+* http://www.mpg123.de/
 * http://www.php.net
