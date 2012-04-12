@@ -31,8 +31,6 @@ Usage:
 Options:
  --count   Number of compilations to generate (default: 1)
  --prefix  Compilations prefix (default: 'ananas')
-
-
 ```
 
 CREDITS
