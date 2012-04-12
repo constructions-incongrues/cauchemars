@@ -25,7 +25,7 @@ USAGE
 =====
 ```bash
 Usage:
- generate-compilation [--count[="..."]] [--prefix[="..."]]
+ ./cauchemars generate-compilation [--count[="..."]] [--prefix[="..."]]
 
 Options:
  --count   Number of compilations to generate (default: 1)
