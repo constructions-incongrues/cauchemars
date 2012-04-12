@@ -81,6 +81,7 @@ while ($num <= $count) {
 	$manifest[] = "================================================";
 	$manifest[] = '';
 	$manifest[] = 'Compilation ID : ' . $id;
+	$manifest[] = 'Date de génération : ' . date('r');
 	$manifest[] = '';
 	$manifest[] = 'Quid ?';
 	$manifest[] = '======';
