@@ -10,7 +10,7 @@ Le script génère aussi un fichier décrivant la compilation : présentation, p
 
 PRÉ-REQUIS
 ==========
-* mpg123
+* [mpg123](http://www.mpg123.de/)
 
 INSTALLATION
 ============
