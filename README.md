@@ -7,6 +7,8 @@ Ce script permet de générer des compilations constituées de morceaux sélecti
 Chaque compilation est constituées de fichiers .wav dont la durée cumulée est inférieure à 74 minutes. 
 Le script génère aussi un fichier décrivant la compilation : présentation, playlist.
 
+Les données sont recueillies grâce à l'API mise à disposition par http://data.musiques-incongrues.net.
+
 PRÉ-REQUIS
 ==========
 * mpg123
