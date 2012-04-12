@@ -4,6 +4,9 @@ Depuis la création du [forum des Musiques Incongrues](http://www.musiques-incon
 
 Ce script permet de générer des compilations constituées de morceaux sélectionnés aléatoirement au sein de cette base de données.
 
+Chaque compilation est constituées de fichiers .wav dont la durée cumulée est inférieure à 74 minutes. 
+Le script génère aussi un fichier décrivant la compilation : présentation, playlist.
+
 PRÉ-REQUIS
 ==========
 * mpg123
