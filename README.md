@@ -24,5 +24,12 @@ mkdir -p var/compilations
 USAGE
 =====
 ```bash
-./compilation <nombre de compilations à générer>
+Usage:
+ generate-compilation [--count[="..."]] [--prefix[="..."]]
+
+Options:
+ --count   Number of compilations to generate (default: 1)
+ --prefix  Compilations prefix (default: 'ananas')
+
+
 ```
