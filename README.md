@@ -8,10 +8,6 @@ Ce script permet de générer des compilations constituées de morceaux sélecti
 Chaque compilation est constituée de fichiers .mp3 dont la durée cumulée est inférieure à 74 minutes. 
 Le script génère aussi un fichier décrivant la compilation : présentation, playlist.
 
-PRÉ-REQUIS
-==========
-* [mpg123](http://www.mpg123.de/)
-
 INSTALLATION
 ============
 
@@ -39,5 +35,4 @@ CREDITS
 * http://data.musiques-incongrues.net
 * https://github.com/symfony/Console
 * https://github.com/Seldaek/monolog
-* http://www.mpg123.de/
 * http://www.php.net
