@@ -1,6 +1,6 @@
 {
     "require": {
         "monolog/monolog": "1.0.*",
-	"symfony/console": "master"
+	"symfony/console": "2.3.*@dev"
     }
 }
