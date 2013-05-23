@@ -12,7 +12,7 @@ INSTALLATION
 ============
 
 ```bash
-git clone git@github.com:contructions-incongrues/cauchemars.git
+git clone git@github.com:constructions-incongrues/cauchemars.git
 cd cauchemars
 php composer.phar install
 mkdir -p var/compilations
