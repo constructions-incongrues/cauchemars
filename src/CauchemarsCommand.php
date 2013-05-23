@@ -103,7 +103,7 @@ class CauchemarsCommand extends Command
 		$manifest[] = 'une base de données (http://data.musiques-incongrues.net) regroupant tous les liens postés';
 		$manifest[] = 'par nos contributeurs.';
 		$manifest[] = '';
-		$manifest[] = 'Ce corpus regroupe plus de 45 000 liens à ce jour.';
+		$manifest[] = 'Ce corpus regroupe plus de 50 000 liens à ce jour.';
 		$manifest[] = '';
 		$manifest[] = 'Chacune de ces compilations est composée d’une sélection aléatoire'; 
 		$manifest[] = 'de morceaux issus de cette base de données.';
